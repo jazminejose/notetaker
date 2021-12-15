@@ -19,8 +19,7 @@ Walkthrough Video: [Screencastify]()
 <img src="" alt="screenshot">
 
 ## Installation
- `[jest](https://jestjs.io/)`<br>
- `[inquirer](https://www.npmjs.com/package/inquirer)`
+ [Express](https://www.npmjs.com/package/express)
 
 ## Usage
 Run the following command: 
