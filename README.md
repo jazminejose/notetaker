@@ -12,9 +12,7 @@
 - [Questions](#questions)
 
 ## Description
-The Team Profile project generates a Software Engineering Team using node CLI. The user is prompted with questions regarding information about the team they would like to build.
-
-Walkthrough Video: [Screencastify]()
+The Notetaker project allows a user to create, save and delete notes given a note title and note text.
 
 <img src="" alt="screenshot">
 
@@ -32,7 +30,7 @@ None
 No available tests
 
 ## License
-MIT
+ISC
 
 ## Questions
 For any questions, please contact me:<br>
