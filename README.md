@@ -15,7 +15,7 @@
 The Notetaker project allows a user to create, save and delete notes given a note title and note text.
 
 Deployed Link: [Heroku](https://jaznotetaker.herokuapp.com/)<br>
-![image]()
+![image](https://user-images.githubusercontent.com/92974218/146241567-51fc95fb-62cc-49a0-be38-9ffa9d77913e.png)
 
 
 
