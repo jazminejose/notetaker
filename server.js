@@ -1,14 +1,12 @@
+//brings the express package
 const express = require('express')
-const res = require('express/lib/response')
 const path = require('path')
-
 const app = express()
-
-app.use(require('./routes/routes.js'))
 
 app.use(express.static(path.join(__dirname, 'public')))
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+app.use(require('./routes/routes.js'))
 
 app.get('/notes', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'notes.html'))
